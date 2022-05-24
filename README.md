@@ -14,6 +14,6 @@ The proof-of-concept uses a Python Flask server to host a single HTML/JS page th
 1. Install Python 3.x
 2. Install Flask (`pip install flask`)
 3. Clone the repo
-4. Run main.py (CD to the folder containing main.py and run `python main.py`)
+4. Run app.py (CD to the folder containing main.py and run `python app.py`)
 5. Go to (127.0.0.1:5000)[127.0.0.1:5000]
 6. Follow the directions on the page to trigger your TrackR device
