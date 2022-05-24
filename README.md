@@ -9,7 +9,7 @@ The goal of this project is to reverse engineer and open source the TrackR devic
 - Ability to get device information (battery, signal level, etc): partially implemented
 - Ability to detect TrackR button presses on host device: not implemented
 
-## Instructions:
+## Instructions
 The proof-of-concept uses a Python Flask server to host a single HTML/JS page that one can use to connect to and trigger a TrackR device. To set it up, you will need to:
 1. Install Python 3.x
 2. Install Flask (`pip install flask`)
