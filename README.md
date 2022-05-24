@@ -15,5 +15,5 @@ The proof-of-concept uses a Python Flask server to host a single HTML/JS page th
 2. Install Flask (`pip install flask`)
 3. Clone the repo
 4. Run app.py (CD to the folder containing main.py and run `python app.py`)
-5. Go to [127.0.0.1:5000](127.0.0.1:5000)
+5. Go to http://127.0.0.1:5000/ in a browser that supports the Web Bluetooth API (such as Chrome).
 6. Follow the directions on the page to trigger your TrackR device
