@@ -35,6 +35,7 @@ To run the Docker container:
 
 ``` 
 docker run  -p 5001:5001 trackr
+# Enter Ctl-C to stop the Docker instance and clean up
 ```
 
 To test the binary (which by default listens on port 5001), go to [http://127.0.0.1:5001](http://127.0.0.1:5001)

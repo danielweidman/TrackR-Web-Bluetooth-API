@@ -10,6 +10,5 @@ COPY . /app
 
 RUN pip install flask
 
-# ENTRYPOINT [ "python"]
 CMD [ "python", "app.py"]
 
