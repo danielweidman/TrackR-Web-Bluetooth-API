@@ -4,8 +4,13 @@
     <script src="{{ url_for('static', filename='trackr.js') }}"></script>
     <meta charset="UTF-8">
     <title>TrackR Web Bluetooth Proof of Concept</title>
+    <link rel="stylesheet" href="https://unpkg.com/mvp.css">
 </head>
 <body>
+    <style>
+        body {padding: 10px}
+    </style>
+<h1>TrackR Pixel Proof of Concept</h1>
 <p>
     This is a proof of concept that lets you trigger a TrackR from a web browser. It only works in browsers that
     implement the Web Bluetooth API. If you find that the Bluetooth features are not working, make sure you have it
